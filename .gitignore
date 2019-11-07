@@ -1,0 +1,8 @@
+# npm 파일
+node_modules/
+
+# 환경변수
+.env
+
+# nuxt파일
+.nuxt
